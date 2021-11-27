@@ -1,3 +1,1 @@
-HUDDLE landing page.
-it is a challenge from front-end mentor  https://www.frontendmentor.io/
-i used react and styled components.
+HUDDLE landing page - is a frontend mentor challenge and it is written in react and styled components
